@@ -10,6 +10,7 @@ public class Main {
         System.out.println("hello git4");
         System.out.println("master test");
         System.out.println("hot-fix text");
+        System.out.println("github");
 
     }
 }
